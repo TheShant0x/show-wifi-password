@@ -1,2 +1,6 @@
 netsh wlan show profile
 netsh wlan show profile name="WiFiName" key=clear
+
+----------Or----------
+
+Command Prompt/PowerShell: Type "ncpa.cpl" and press Enter.
